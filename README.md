@@ -9,9 +9,25 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
+I'm an **Applied & Generative AI Engineer** focused on developing end-to-end intelligent systems that combine reasoning, retrieval, perception, and generation. My work spans Agentic AI, Generative Models, Computer Vision, and Machine Learning, with a strong emphasis on building practical, production-ready solutions.
 
-I'm an AI engineer focused on developing end-to-end AI systems that combine reasoning, retrieval, perception, and generation. My work spans Agentic AI, Generative AI, Computer Vision, and Machine Learning, with a strong interest in building practical solutions that can operate in real-world environments.
+## 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=HuggingFace&logoColor=black" alt="HuggingFace" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=Ollama&logoColor=white" alt="Ollama" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
 ---
 
@@ -19,26 +35,13 @@ I'm an AI engineer focused on developing end-to-end AI systems that combine reas
 
 | Project | Description |
 |---------|-------------|
-| **[Omni-AgriVision](https://github.com/ahmedayad0168/Omni-AgriVision)** | End-to-end agricultural AI platform integrating object detection, classification, segmentation, anomaly detection, tracking, and crop analytics. |
-| **[DiffusionCraft](https://github.com/ahmedayad0168/DiffusionCraft)** | Research and implementation of diffusion-based generative models for image synthesis and creative AI applications. |
-| **[RAG Chatbot with Ollama](https://github.com/ahmedayad0168/rag-chatbot-with-ollama)** | Private Retrieval-Augmented Generation system built using local LLMs, vector search, and knowledge-grounded responses. |
-| **[Medical Diagnosis System](https://github.com/ahmedayad0168/Medical-Diagnosis-Project)** | AI-powered diagnostic assistant leveraging machine learning, reasoning workflows, and intelligent decision support. |
-| **[Multi-Agent System](https://github.com/ahmedayad0168/multi-agent-system)** | Collaborative AI agents capable of task decomposition, planning, reasoning, and autonomous execution. |
+| 🌱 **[Omni-AgriVision](https://github.com/ahmedayad0168/Omni-AgriVision)** | End-to-end agricultural AI platform integrating object detection, classification, segmentation, and crop analytics. |
+| 🎨 **[DiffusionCraft](https://github.com/ahmedayad0168/DiffusionCraft)** | Implementation of diffusion-based generative models for image synthesis and creative AI applications. |
+| 🤖 **[RAG Chatbot with Ollama](https://github.com/ahmedayad0168/rag-chatbot-with-ollama)** | Private Retrieval-Augmented Generation system built using local LLMs, vector search, and knowledge-grounded responses. |
+| 🩺 **[Medical Diagnosis System](https://github.com/ahmedayad0168/Medical-Diagnosis-Project)** | AI-powered diagnostic assistant leveraging machine learning, reasoning workflows, and intelligent decision support. |
+| 🧠 **[Multi-Agent System](https://github.com/ahmedayad0168/multi-agent-system)** | Collaborative AI agents capable of task decomposition, planning, reasoning, and autonomous execution. |
 
 ---
-
-## 🛠 Tech Stack
-
-**Languages:** Python, C++, SQL
-
-**AI/ML:** PyTorch, TensorFlow, Transformers, Hugging Face, Ollama, FAISS, LangChain
-
-**Areas:** Deep Learning, Computer Vision, LLMs, RAG, AI Agents, Diffusion Models, Agentic AI
-
-**Tools:** Docker, Linux, Git
-
----
-
 ## 🎯 Current Focus
 
 - **Agentic AI Systems** — Building autonomous agents with planning and collaboration capabilities
