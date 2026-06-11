@@ -4,6 +4,7 @@
   <p>
     <a href="https://www.linkedin.com/in/ahmed-ayad-7854aa3a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://github.com/ahmedayad0168"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://wa.me/201068892255"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   </p>
 </div>
 
@@ -62,6 +63,7 @@ I'm an **Applied & Generative AI Engineer** focused on developing end-to-end int
 
 - [GitHub Profile](https://github.com/ahmedayad0168)
 - [LinkedIn](https://www.linkedin.com/in/ahmed-ayad-7854aa3a7/)
+- [WhatsApp (01068892255)](https://wa.me/201068892255)
 
 ---
 
