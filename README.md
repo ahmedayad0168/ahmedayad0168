@@ -11,7 +11,9 @@
 ---
 
 ## 🚀 About Me
-I'm an **Applied & Generative AI Engineer** focused on developing end-to-end intelligent systems that combine reasoning, retrieval, perception, and generation. My work spans Agentic AI, Generative Models, Computer Vision, and Machine Learning, with a strong emphasis on building practical, production-ready solutions.
+**AI and Data Science Engineer** with hands-on experience in Generative AI, Multi-Agent Systems, RAG, Machine Learning,
+and Computer Vision. Skilled in developing end-to-end AI solutions and passionate about transforming data into impactful
+applications while building intelligent systems that solve real-world challenges.
 
 ## 🛠️ Tech Stack
 <p>
