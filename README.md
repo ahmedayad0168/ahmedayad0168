@@ -72,18 +72,6 @@ I enjoy building end-to-end AI solutions that combine research concepts with pra
 
 ---
 
-## 📂 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🌱 **[Omni-AgriVision](https://github.com/ahmedayad0168/Omni-AgriVision)** | End-to-end agricultural AI platform combining object detection, classification, segmentation, and crop analysis. |
-| 🎨 **[DiffusionCraft](https://github.com/ahmedayad0168/DiffusionCraft)** | Generative AI project exploring diffusion models and image generation techniques. |
-| 🤖 **[RAG Chatbot with Ollama](https://github.com/ahmedayad0168/rag-chatbot-with-ollama)** | Retrieval-Augmented Generation system using local LLMs, vector databases, and knowledge-grounded responses. |
-| 🩺 **[Medical Diagnosis System](https://github.com/ahmedayad0168/Medical-Diagnosis-Project)** | AI-based diagnostic assistant combining machine learning and reasoning workflows. |
-| 🧠 **[Multi-Agent System](https://github.com/ahmedayad0168/multi-agent-system)** | Multi-agent architecture for task decomposition, planning, reasoning, and collaborative execution. |
-
----
-
 ## 🎯 Current Focus
 
 ```text
