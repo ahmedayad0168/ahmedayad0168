@@ -104,19 +104,6 @@ My work spans **Generative AI, Deep Learning, LLMs, AI Agents, RAG, Diffusion Mo
 
 ---
 
-## 🎯 Current Focus
-
-```text
-Generative AI        → LLMs • Diffusion Models • GANs • VAEs
-Deep Learning        → Transformers • CNNs • Neural Networks
-Agentic AI           → AI Agents • Multi-Agent Systems • Planning • Tool Use
-RAG                  → Retrieval • Embeddings • Vector Search • Knowledge Grounding
-Computer Vision      → Detection • Classification • Segmentation • Tracking
-AI Engineering       → APIs • Deployment • Optimization • Local Inference
-```
-
----
-
 ## 🔗 Connect With Me
 
 <p>
